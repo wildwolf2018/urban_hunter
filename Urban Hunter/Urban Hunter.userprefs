@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy\ClownGirl\ClownGirlMovement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Camera\GameManager.cs" Line="44" Column="5" />
+      <File FileName="Assets\Scripts\Player\PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Camera\LevelManager.cs" Line="215" Column="26" />
+      <File FileName="Assets\ScreenFader.cs" Line="1" Column="1" />
+      <File FileName="Assets\TextManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\LevelManager2.cs" Line="1" Column="1" />
+      <File FileName="Assets\LevelManager3.cs" Line="88" Column="14" />
+      <File FileName="Assets\WhipBossMovement.cs" Line="168" Column="53" />
+      <File FileName="Assets\WhipMasterHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\HUDCanvas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\ClownGirl\ClownGirlMovement.cs" Line="73" Column="34" />
+      <File FileName="Assets\Scripts\Enemy\ClownGirl\ClownGirlMovement2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\ClownGirl\ClowngirlHealth.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
